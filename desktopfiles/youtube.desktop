@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Youtube
+Comment=Youtube client
+Exec=brave-browser --app=https://youtube.com/feed/subscriptions
+Icon=web-browser
+Categories=Network;WebBrowser;
+Terminal=false
+

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=ChatGPT
+Comment=Microsoft Propaganda
+Exec=brave-browser --app=https://chat.openai.com/chat
+Icon=web-browser
+Categories=Network;WebBrowser;
+Terminal=false

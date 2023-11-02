@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Spotify
+Comment=Spotify
+Exec=/usr/bin/spotify
+Icon=web-browser
+Categories=Music;WebBrowser;
+Terminal=false
+

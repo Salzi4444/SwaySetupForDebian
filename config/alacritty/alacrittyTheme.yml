@@ -1,0 +1,27 @@
+colors:
+  name: bluetheme
+  author: salzi
+  primary:
+    background: "#2b303b"
+    foreground: "#70E5FF"
+  cursor:
+    text: "#2b303b"
+    cursor: "#70e5ff"
+  normal:
+    black: "#000000"
+    red: "#e25d56"
+    green: "#73ca50"
+    yellow: "#e9bf57"
+    blue: "#4a88e4"
+    magenta: "#915caf"
+    cyan: "#23acdd"
+    white: "#f0f0f0"
+  bright:
+    black: "#aaaaaa"
+    red: "#f36868"
+    green: "#88db3f"
+    yellow: "#f0bf7a"
+    blue: "#6f8fdb"
+    magenta: "#e987e9"
+    cyan: "#4ac9e2"
+    white: "#FFFFFF"

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Chess
+Comment=chess.com client
+Exec=brave-browser --app=https://chess.com
+Icon=web-browser
+Categories=Games;WebBrowser;
+Terminal=false

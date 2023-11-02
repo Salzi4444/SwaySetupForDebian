@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=WhatsApp
+Comment=WhatsApp client
+Exec=brave-browser --app=https://web.whatsapp.com
+Icon=web-browser
+Categories=Communication;WebBrowser;
+Terminal=false
