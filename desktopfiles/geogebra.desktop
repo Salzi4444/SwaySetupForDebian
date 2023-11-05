@@ -2,7 +2,7 @@
 Type=Application
 Name=Geogebra
 Comment=Geogebra
-Exec=brave-browser --app=https://geogebra.org/classic
+Exec=google-chrome-stable --app=https://geogebra.org/classic
 Icon=web-browser
 Categories=Network;WebBrowser;
 Terminal=false

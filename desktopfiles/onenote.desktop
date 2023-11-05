@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Onenote
+Comment=Onenote
+Exec=google-chrome-stable --app=https://onenote.com
+Icon=web-browser
+Categories=WebBrowser;
+Terminal=false

@@ -4,6 +4,5 @@ Name=Spotify
 Comment=Spotify
 Exec=/usr/bin/spotify
 Icon=web-browser
-Categories=Music;WebBrowser;
+Categories=Media;
 Terminal=false
-

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Outlook
+Comment=Outlook
+Exec=google-chrome-stable --app=https://outlook.office.com/
+Icon=web-browser
+Categories=WebBrowser;
+Terminal=false
