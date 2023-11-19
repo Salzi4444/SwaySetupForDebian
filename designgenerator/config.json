@@ -1,0 +1,222 @@
+[
+    {
+        "wallpaper": "~/.config/designgenerator/wallpapers/arch.png",
+        
+        "waybarbottom": "#22164b",
+    
+        "backgroundcolor": "#24a0d6",
+        "backgroundcolor2": "#0090c0",
+    
+        "textcolor": "#22164b",
+        "textcolor2": "#ffffff",
+    
+        "correctcolor": "00ff00",
+        "wrongcolor": "ff0000",
+    
+        "opacity": "0.5"
+    },
+
+    {
+        "wallpaper": "~/.config/designgenerator/wallpapers/cheatsheet-debian.png",
+        
+        "waybarbottom": "#8c8c8c",
+    
+        "backgroundcolor": "#1c1c1c",
+        "backgroundcolor2": "#8c8c8c",
+    
+        "textcolor": "#ffffff",
+        "textcolor2": "#ffffff",
+    
+        "correctcolor": "00ff00",
+        "wrongcolor": "ff0000",
+    
+        "opacity": "1"
+    },
+
+    {
+        "wallpaper": "~/.config/designgenerator/wallpapers/debian-blue.png",
+        
+        "waybarbottom": "#7ab7cd",
+    
+        "backgroundcolor": "#1c2030",
+        "backgroundcolor2": "#7ab7cd",
+    
+        "textcolor": "#ffffff",
+        "textcolor2": "#ffffff",
+    
+        "correctcolor": "00ff00",
+        "wrongcolor": "ff0000",
+    
+        "opacity": "0.5"
+    },
+
+    {
+        "wallpaper": "~/.config/designgenerator/wallpapers/kaliblack.jpg",
+        
+        "waybarbottom": "#5c6476",
+    
+        "backgroundcolor": "#0e0f11",
+        "backgroundcolor2": "#103068",
+    
+        "textcolor": "#3272ce",
+        "textcolor2": "#ffffff",
+    
+        "correctcolor": "00ff00",
+        "wrongcolor": "ff0000",
+    
+        "opacity": "0.5"
+    },
+
+    {
+        "wallpaper": "~/.config/designgenerator/wallpapers/kaliblue.png",
+        
+        "waybarbottom": "#e2ebee",
+    
+        "backgroundcolor": "#5555ff",
+        "backgroundcolor2": "#26b1c3",
+    
+        "textcolor": "#ffffff",
+        "textcolor2": "#ffffff",
+    
+        "correctcolor": "00ff00",
+        "wrongcolor": "ff0000",
+    
+        "opacity": "0.8"
+    },
+
+    {
+        "wallpaper": "~/.config/designgenerator/wallpapers/kalired.jpg",
+        
+        "waybarbottom": "#e2ebee",
+    
+        "backgroundcolor": "#0c060a",
+        "backgroundcolor2": "#641117",
+    
+        "textcolor": "#95b0d5",
+        "textcolor2": "#ffffff",
+    
+        "correctcolor": "00ff00",
+        "wrongcolor": "ff0000",
+    
+        "opacity": "0.8"
+    },
+
+    {
+        "wallpaper": "~/.config/designgenerator/wallpapers/kaliwhiteblueblack.jpg",
+        
+        "waybarbottom": "#e2ebee",
+    
+        "backgroundcolor": "#0b1922",
+        "backgroundcolor2": "#476076",
+    
+        "textcolor": "#739bb9",
+        "textcolor2": "#ffffff",
+    
+        "correctcolor": "00ff00",
+        "wrongcolor": "ff0000",
+    
+        "opacity": "0.8"
+    },
+
+    {
+        "wallpaper": "~/.config/designgenerator/wallpapers/spirals.jpg",
+        
+        "waybarbottom": "#e2ebee",
+    
+        "backgroundcolor": "#040404",
+        "backgroundcolor2": "#2c1626",
+    
+        "textcolor": "#735ba6",
+        "textcolor2": "#ffffff",
+    
+        "correctcolor": "00ff00",
+        "wrongcolor": "ff0000",
+    
+        "opacity": "0.8"
+    },
+
+    {
+        "wallpaper": "~/.config/designgenerator/wallpapers/spirals2.png",
+        
+        "waybarbottom": "#e2ebee",
+    
+        "backgroundcolor": "#040404",
+        "backgroundcolor2": "#145a61",
+    
+        "textcolor": "#36c9df",
+        "textcolor2": "#ffffff",
+    
+        "correctcolor": "00ff00",
+        "wrongcolor": "ff0000",
+    
+        "opacity": "0.8"
+    },
+
+    {
+        "wallpaper": "~/.config/designgenerator/wallpapers/ubuntu-deer.jpg",
+        
+        "waybarbottom": "#e2ebee",
+    
+        "backgroundcolor": "#da5a41",
+        "backgroundcolor2": "#b64aad",
+    
+        "textcolor": "#270617",
+        "textcolor2": "#ffffff",
+    
+        "correctcolor": "00ff00",
+        "wrongcolor": "ff0000",
+    
+        "opacity": "0.6"
+    },
+
+    {
+        "wallpaper": "~/.config/designgenerator/wallpapers/ubuntucat.jpg",
+        
+        "waybarbottom": "#34045c",
+    
+        "backgroundcolor": "#040404",
+        "backgroundcolor2": "#2a0419",
+    
+        "textcolor": "#8a31fe",
+        "textcolor2": "#ffffff",
+    
+        "correctcolor": "00ff00",
+        "wrongcolor": "ff0000",
+    
+        "opacity": "0.6"
+    },
+
+    {
+        "wallpaper": "~/.config/designgenerator/wallpapers/ubuntuwindows.jpg",
+        
+        "waybarbottom": "#e2ebee",
+    
+        "backgroundcolor": "#fb6e2a",
+        "backgroundcolor2": "#bf0c7f",
+    
+        "textcolor": "#ffffff",
+        "textcolor2": "#ffffff",
+    
+        "correctcolor": "00ff00",
+        "wrongcolor": "ff0000",
+    
+        "opacity": "0"
+    },
+
+    {
+        "wallpaper": "~/.config/designgenerator/wallpapers/windows10.png",
+        
+        "waybarbottom": "#e2ebee",
+    
+        "backgroundcolor": "#0458c0",
+        "backgroundcolor2": "#0473d2",
+    
+        "textcolor": "#3fd9fb",
+        "textcolor2": "#ffffff",
+    
+        "correctcolor": "00ff00",
+        "wrongcolor": "ff0000",
+    
+        "opacity": "0.7"
+    }
+]

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=bluetuith
+Exec=alacritty -e bluetuith
+Icon=alacritty
+Type=Application
+Categories=System;TerminalEmulator;
